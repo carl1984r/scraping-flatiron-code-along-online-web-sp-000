@@ -44,3 +44,5 @@ Scraper.new.get_page
     end
   end
 end
+
+Scraper.new.print_courses
